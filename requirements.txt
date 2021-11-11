@@ -1,5 +1,5 @@
 scdata
-seaborn
+seaborn>=0.11
 matplotlib
 numpy
 pandas
