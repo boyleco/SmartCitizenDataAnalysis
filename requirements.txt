@@ -1,6 +1,6 @@
 scdata
 seaborn
-matplotlib.pyplot
+matplotlib
 numpy
 pandas
 scipy
