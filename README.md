@@ -1,3 +1,3 @@
 # SmartCitizenDataAnalysis
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/boyleco/SmartCitizenDataAnalysis.git/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/boyleco/SmartCitizenDataAnalysis.git/main?filepath=NoiseAnalysis.ipynb)
