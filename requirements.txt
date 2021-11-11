@@ -1,0 +1,6 @@
+scdata
+seaborn
+matplotlib.pyplot
+numpy
+pandas
+scipy
